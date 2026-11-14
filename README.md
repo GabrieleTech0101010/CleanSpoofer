@@ -22,6 +22,8 @@
 
 ## 🚀 Overview
 
+
+
 CleanSpoofer provides an optimized command-line interface (CLI) tailored for managing local application environments and routine cache hygiene. Featuring a stylized ASCII art startup sequence and an intuitive menu, it ensures smooth and fast execution with zero background bloat.
 
 ## ✨ Features
@@ -36,3 +38,7 @@ CleanSpoofer provides an optimized command-line interface (CLI) tailored for man
 1. Download or clone the repository to your local machine:
    ```bash
    git clone [https://github.com/your-username/CleanSpoofer.git](https://github.com/your-username/CleanSpoofer.git)
+
+
+
+<img width="952" height="475" alt="Immagine 2026-11-14 143822" src="https://github.com/user-attachments/assets/98169d03-16ee-4351-b557-59ddbf0c967f" />
